@@ -14,36 +14,38 @@
      limitations under the License.
 -->
 <resources>
-
-    <color name="default_background">@color/white</color>
-
+    <color name="default_background">#ff222222</color>
+    <color name="primary">#ff222222</color>
+    <color name="primary_dark">#ff222222</color>
+    <color name="accent">#ffE84E40</color>
+    <color name="material_blue_grey_950">#ff222222</color>
     <!-- configuration for album set page -->
-    <color name="albumset_background">@color/white</color>
-    <color name="albumset_placeholder">@color/black_transparent_3</color>
-    <color name="albumset_label_background">@color/black_transparent_4</color>
-    <color name="albumset_label_title">@color/white</color>
-    <color name="albumset_label_count">@color/white</color>
+    <color name="albumset_background">#ff222222</color>
+    <color name="albumset_placeholder">#ff222222</color>
+    <color name="albumset_label_background">#ff222222</color>
+    <color name="albumset_label_title">#FBFBFB</color>
+    <color name="albumset_label_count">#A9ABAD</color>
     <color name="albumlist_label_title">@color/black_transparent_4</color>
 
     <color name="darker_transparent">@color/black_transparent_5</color>
 
     <!-- configuration for album page -->
-    <color name="album_background">@color/white</color>
-    <color name="album_placeholder">@color/white</color>
+    <color name="album_background">#ff222222</color>
+    <color name="album_placeholder">#ff222222</color>
 
     <!-- configuration for photo page -->
-    <color name="photo_background">@color/primary</color>
-    <color name="photo_placeholder">@color/light_black</color>
+    <color name="photo_background">#ff222222</color>
+    <color name="photo_placeholder">#ff222222</color>
     <color name="photo_page_action_bar">#8A000000</color>
     <color name="photo_page_bottom_panel">#8A000000</color>
 
     <!-- configuration for manage cache page -->
-    <color name="cache_background">@color/primary</color>
-    <color name="cache_placeholder">@color/light_black</color>
+    <color name="cache_background">#ff222222</color>
+    <color name="cache_placeholder">#ff222222</color>
 
-    <color name="bitmap_screennail_placeholder">@color/light_black</color>
+    <color name="bitmap_screennail_placeholder">#333</color>
 
-    <color name="slideshow_background">@color/light_black</color>
+    <color name="slideshow_background">#ff222222</color>
 
     <color name="button_dark_transparent_background">#6000</color>
 
@@ -52,23 +54,23 @@
 
     <!-- Camera resources below -->
 
-    <color name="recording_time_elapsed_text">@color/white</color>
+    <color name="recording_time_elapsed_text">#FFFFFFFF</color>
     <color name="recording_time_remaining_text">#FFFF0033</color>
     <color name="on_viewfinder_label_background_color">#77333333</color>
-    <color name="review_control_pressed_color">@color/accent</color>
+    <color name="review_control_pressed_color">#FF33B5E5</color>
     <color name="review_control_pressed_fan_color">#3F33B5E5</color>
-    <color name="review_background">@color/black</color>
+    <color name="review_background">#FF000000</color>
     <color name="icon_disabled_color">#DD777777</color>
     <color name="time_lapse_arc">#FFC5C5C5</color>
     <color name="indicator_background">#40000000</color>
-    <color name="popup_title_color">@color/accent</color>
+    <color name="popup_title_color">#ff33b5e5</color>
     <color name="popup_background">#ff282828</color>
     <color name="pano_progress_empty">#FF2E2E2E</color>
     <color name="pano_progress_done">#FF33525E</color>
     <color name="pano_progress_indication">#FF0099CC</color>
     <color name="pano_progress_indication_fast">#FFFF2222</color>
-    <color name="mode_selection_border">@color/accent</color>
-    <color name="holo_blue_light">@color/accent</color>
+    <color name="mode_selection_border">#33B5E5</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
     <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
     <color name="bright_foreground_holo_dark">#fff3f3f3</color>
     <color name="face_detect_start">#80ffffff</color>
