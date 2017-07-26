@@ -34,8 +34,8 @@
     <color name="filtershow_stateview_background">#464646</color>
     <color name="filtershow_stateview_text">@color/white</color>
     <color name="filtershow_stateview_selected_background">#c8c8c8</color>
-    <color name="filtershow_stateview_selected_text">@color/black</color>
-    <color name="filtershow_categoryview_background">#1a1a1a</color>
+    <color name="filtershow_stateview_selected_text">@color/white</color>
+    <color name="filtershow_categoryview_background">#0e131e</color>
     <color name="filtershow_categoryview_text">@color/white</color>
     <color name="filtershow_category_selection">@color/white</color>
     <color name="gradcontrol_point_center">@color/white</color>
