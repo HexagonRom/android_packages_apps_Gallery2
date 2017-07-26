@@ -14,15 +14,15 @@
      limitations under the License.
 -->
 <resources>
-    <color name="default_background">#ff222222</color>
-    <color name="primary">#ff222222</color>
-    <color name="primary_dark">#ff222222</color>
+    <color name="default_background">#0e131e</color>
+    <color name="primary">#0e131e</color>
+    <color name="primary_dark">#0e131e</color>
     <color name="accent">#ffE84E40</color>
-    <color name="material_blue_grey_950">#ff222222</color>
+    <color name="material_blue_grey_950">#0e131e</color>
     <!-- configuration for album set page -->
-    <color name="albumset_background">#ff222222</color>
-    <color name="albumset_placeholder">#ff222222</color>
-    <color name="albumset_label_background">#ff222222</color>
+    <color name="albumset_background">#0e131e</color>
+    <color name="albumset_placeholder">#0e131e</color>
+    <color name="albumset_label_background">#004d60</color>
     <color name="albumset_label_title">#FBFBFB</color>
     <color name="albumset_label_count">#A9ABAD</color>
     <color name="albumlist_label_title">@color/black_transparent_4</color>
@@ -30,18 +30,18 @@
     <color name="darker_transparent">@color/black_transparent_5</color>
 
     <!-- configuration for album page -->
-    <color name="album_background">#ff222222</color>
-    <color name="album_placeholder">#ff222222</color>
+    <color name="album_background">#0e131e</color>
+    <color name="album_placeholder">#0e131e</color>
 
     <!-- configuration for photo page -->
-    <color name="photo_background">#ff222222</color>
-    <color name="photo_placeholder">#ff222222</color>
+    <color name="photo_background">#0e131e</color>
+    <color name="photo_placeholder">#0e131e</color>
     <color name="photo_page_action_bar">#8A000000</color>
     <color name="photo_page_bottom_panel">#8A000000</color>
 
     <!-- configuration for manage cache page -->
-    <color name="cache_background">#ff222222</color>
-    <color name="cache_placeholder">#ff222222</color>
+    <color name="cache_background">#0e131e</color>
+    <color name="cache_placeholder">#0e131e</color>
 
     <color name="bitmap_screennail_placeholder">#333</color>
 
